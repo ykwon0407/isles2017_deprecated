@@ -3,3 +3,5 @@ notebook/
 loggings/
 weights/
 input/
+.ipynb_checkpoints/
+.~ip_data_augmentation.ipynb
